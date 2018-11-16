@@ -7,7 +7,7 @@ body {
     background-size: cover;
 }
 
-h2 + p:hover {
+p {
     color: #AA4139;
     text-align: center;
     border: 5px solid rgba(255,176,170, 0.5);
@@ -15,11 +15,20 @@ h2 + p:hover {
 }
 
 p {
-    color: pink;
+    color: green;
+    line-height: 5px;
+    font-family: 'Poiret One', cursive;
+    font-size: 180%;
 }
 
-p {
-    color: green;
+img {
+    float: right;
+}
+
+footer {
+    color: red;
+    clear: both;
+    text-align: center;
 }
 
 li {
@@ -27,7 +36,7 @@ li {
     display: inline-block;
 }
 
-.webtext {
+.webtext:last-child {
     border: 5px dashed green;
 }
 
