@@ -1,0 +1,7 @@
+11/10 14:36:56.754  Connecting to Battle.net...
+11/10 14:36:56.766      querying gateway useast.battle.net
+11/10 14:36:56.806      searching for the fastest server
+11/10 14:36:56.832      Connected to server 199.108.55.58
+11/10 14:36:56.842      accessing accounts
+11/10 14:36:56.913      Checking for the latest version
+11/10 14:36:57.524      Connected to Battle.net
